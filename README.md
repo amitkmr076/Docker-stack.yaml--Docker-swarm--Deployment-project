@@ -1,3 +1,7 @@
+Pre-requisite : follow this blog for step by step guide.
+Blog : https://amitblog.hashnode.dev/mastering-docker-swarm-and-cluster-a-guide-to-multi-container-deployment-with-docker-cluster-and-beyond
+
+
 Yaml file syntax Explanation -
 
 1-  version: '3.7'
